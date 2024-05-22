@@ -1,1 +1,1 @@
-echo "# Weather_App" >> README.md
+*WEATHER APP*
